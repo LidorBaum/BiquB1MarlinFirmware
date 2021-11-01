@@ -11,7 +11,7 @@ configuration_adv.h - the original ADVANCED_PAUSE_FEATURE parameters from Biqu w
 With my version you have to press purge more 1 time (or more) before continue. <br />
 (total of 2 extruding processes in a filament change [m600]) <br />
 
-in the BLTouch firmwares I have changed from JUNCTION_DEVIATION_MM to CLASSIC_JERK,
+In the BLTouch firmwares I have changed from JUNCTION_DEVIATION_MM to CLASSIC_JERK,
 because of a problem that made the travel movement pause mid-travel
 (probably because of the Z axis compensation between araes on the print bed). now everything works fine.
 In addition, I used safe Z homing (home in the center of the bed) 
