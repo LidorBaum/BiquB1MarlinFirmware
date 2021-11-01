@@ -34,3 +34,7 @@ The firmwares have been tested on 2 printers of Biqu B1 and didn't go into any t
 Please let me know if you install a firmware and how it went. <br />
 I would love to get feedbacks. <br />
 Have Fun! 
+
+![BiquB1](https://res.cloudinary.com/echoshare/image/upload/q_auto:good/v1635757779/9_aczzrd.jpg)
+
+
