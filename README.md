@@ -19,7 +19,7 @@ In addition, I used safe Z homing (home in the center of the bed)
 and use probe instead of Z endstop (as it should be)
 the Probe offset is set to Biqu's documents - 24, -47, -1.5
 
-there are 4 BLTouch firmwares - 3x3 , 4x4, 5x5 - this is the grid of probing points, the higher - the better, but also time consumer.
+there are 4 BLTouch firmwares - BLINIEAR 3x3 , 4x4, 5x5 - this is the grid of probing points, the higher - the better, but also time consumer.
 I am using 4x4 grid and it is just fine.
 The last BLTouch firmware is UBL - Unified Bed Leveling. I am not a fan of that but it is also an option. it is 7 probe points each axis (XY)
 
