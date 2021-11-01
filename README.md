@@ -29,5 +29,7 @@ Please use at your own risk, and in the first homing process I advise you to be 
 the firmwares have been tested on 2 printers of Biqu B1 and didn't go into any trouble so it should be all good.
 
 Please let me know if you install a firmware and how it went.
+
 I would love to get feedbacks.
+
 Have Fun! 
