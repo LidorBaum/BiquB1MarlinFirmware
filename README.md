@@ -22,6 +22,10 @@ the Probe offset is set to Biqu's documents - 24, -47, -1.5
 there are 4 BLTouch firmwares - BLINIEAR 3x3 , 4x4, 5x5 - this is the grid of probing points, the higher - the better, but also time consumer.
 I am using 4x4 grid and it is just fine.
 The last BLTouch firmware is UBL - Unified Bed Leveling. I am not a fan of that but it is also an option. it is 7 probe points each axis (XY)
+Please notice that in order to use BLTouch each power cycle of the printer, 
+you need to write in your Start Gcode script the command 'M420 S1' to activate and use the bltouch that saved on the EEPROM
+If you are using the bed leveling command G29, it is automatically activating and use (no need for M420 S1)
+
 
 before considering updating to my firmware, please backup your current firmware. (if it is a stock, you have it in Biqu's github, if it is modified, it probably sitting in your SD card as "FIRMWARE.CUR")
 
