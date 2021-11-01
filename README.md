@@ -4,6 +4,7 @@ Biqu B1 Marlin Firmwares - stock, BLTouch, UBL
 in this repository you can find Marlin firmwares for Biqu B1 3D printer.
 
 the firmwares are based on Marlin 2.0.7.2 and the source code is from BigTreeTech Biqu B1 github page.
+
 the firmwares are for SKR 2 board.
 changes I have made in the firmwares:
 
