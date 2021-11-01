@@ -27,6 +27,8 @@ If you are using the bed leveling command G29, it is automatically activating an
 
 
 Before considering updating to my firmware, please backup your current firmware. (if it is a stock, you have it in Biqu's github, if it is modified, it probably sitting in your SD card as "FIRMWARE.CUR")
+To install the firmware: download the relevant file, rename it to "firmware.bin" and copy it to the root of the sd card. <br />
+Then you have to insert the card to the board slot (not beside the screen). turn on the printer and you will see that it takes the hotend fan about 10 seconds to turn on
 
 Please use at your own risk, and in the first homing process I advise you to be with hand on the power switch in case something goes wrong. <br />
 The firmwares have been tested on 2 printers of Biqu B1 and didn't go into any trouble so it should be all good.
