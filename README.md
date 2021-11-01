@@ -5,8 +5,8 @@ in this repository you can find Marlin firmwares for Biqu B1 3D printer.
 
 The firmwares are based on Marlin 2.0.7.2 and the source code is from BigTreeTech Biqu B1 github page. <br />
 The firmwares are for SKR 2 board. <br />
-Changes I have made in the firmwares: <br />
 
+Changes I have made in the firmwares: <br />
 configuration_adv.h - the original ADVANCED_PAUSE_FEATURE parameters from Biqu were wrong - the extruder went too fast when loading filament and that caused a skipping stepps and very small amount of purge. <br />
 With my version you have to press purge more 1 time (or more) before continue. <br />
 (total of 2 extruding processes in a filament change [m600]) <br />
