@@ -36,9 +36,6 @@ I would love to get feedbacks. <br />
 Have Fun! 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/echoshare/image/upload/c_scale,q_auto:good,w_630/v1635757779/9_aczzrd.jpg">
+  <img alt="BiquB1" src="https://res.cloudinary.com/echoshare/image/upload/c_scale,q_auto:good,w_500/v1635757779/9_aczzrd.jpg">
 </p>
-
-![BiquB1](https://res.cloudinary.com/echoshare/image/upload/c_scale,q_auto:good,w_630/v1635757779/9_aczzrd.jpg)
-
 
