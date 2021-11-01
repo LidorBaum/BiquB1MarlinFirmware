@@ -1,5 +1,5 @@
 # BiquB1MarlinFirmware
-Biqu B1 Marlin Firmwares - stock, BLTouch, UBL
+Biqu B1 Marlin Firmwares - Stock, BLTouch, UBL
 
 in this repository you can find Marlin firmwares for Biqu B1 3D printer.
 
