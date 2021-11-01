@@ -6,10 +6,15 @@ the firmwares are based on Marlin 2.0.7.2 and the source code is from BigTreeTec
 the firmwares are for SKR 2 board.
 changes I have made in the firmwares:
 
-configuration_adv.h - the original ADVANCED_PAUSE_FEATURE parameters from Biqu were wrong - the extruder went too fast when loading filament and that caused a skipping stepps and very small amount of purge. with my version you have to press purge more 1 time (or more) before continue. (total of 2 extruding processes in a filament change [m600])
+configuration_adv.h - the original ADVANCED_PAUSE_FEATURE parameters from Biqu were wrong - the extruder went too fast when loading filament and that caused a skipping stepps and very small amount of purge.
+with my version you have to press purge more 1 time (or more) before continue. 
+(total of 2 extruding processes in a filament change [m600])
 
-in the BLTouch firmwares I have changed from JUNCTION_DEVIATION_MM to CLASSIC_JERK because of a problem that made the travel movement pause mid-travel (probably because of the Z axis compensation between araes on the print bed). now everything works fine.
-In addition, I used safe Z homing (home in the center of the bed) and use probe instead of Z endstop (as it should be)
+in the BLTouch firmwares I have changed from JUNCTION_DEVIATION_MM to CLASSIC_JERK,
+because of a problem that made the travel movement pause mid-travel
+(probably because of the Z axis compensation between araes on the print bed). now everything works fine.
+In addition, I used safe Z homing (home in the center of the bed) 
+and use probe instead of Z endstop (as it should be)
 the Probe offset is set to Biqu's documents - 24, -47, -1.5
 
 there are 4 BLTouch firmwares - 3x3 , 4x4, 5x5 - this is the grid of probing points, the higher - the better, but also time consumer.
