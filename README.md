@@ -35,6 +35,6 @@ Please let me know if you install a firmware and how it went. <br />
 I would love to get feedbacks. <br />
 Have Fun! 
 
-![BiquB1](https://res.cloudinary.com/echoshare/image/upload/c_scale,q_auto:good,w_1500/v1635757779/9_aczzrd.jpg)
+![BiquB1](https://res.cloudinary.com/echoshare/image/upload/c_scale,q_auto:good,w_630/v1635757779/9_aczzrd.jpg)
 
 
